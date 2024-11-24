@@ -40,7 +40,7 @@ readme = "README.md"
 # will return the style class.
 
 [project.entry-points."pygments.styles"]
-titech = "titech_style:TitechStyle"
+titech = "titech:TitechStyle"
 
 
 # Declare plugin filters in this table. The key *is* significant: it is the name
